@@ -1,6 +1,6 @@
 # Geocoding Comparison
 
-Aa part of investigating the options for geocoding in a [Capacitor](https://capacitorjs.com/) application there are 2 plugins that stand out:
+As part of investigating the options for geocoding in a [Capacitor](https://capacitorjs.com/) application there are 2 plugins that stand out:
 
 - [cordova-plugin-nativegeocoder](https://github.com/sebastianbaar/cordova-plugin-nativegeocoder?tab=readme-ov-file#known-issues)
 - [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder)
